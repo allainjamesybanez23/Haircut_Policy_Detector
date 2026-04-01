@@ -1,0 +1,1 @@
+print("Haircut Policy Detector Starting...")
