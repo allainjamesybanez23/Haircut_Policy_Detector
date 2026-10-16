@@ -1,1 +1,6 @@
+__pycache__/
+*.pyc
+my_dataset/
+violation_logs/
 violationLog/
+dataset/
